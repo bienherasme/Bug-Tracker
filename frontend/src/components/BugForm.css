@@ -1,0 +1,14 @@
+.bug-form {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+}
+
+.bug-form h2 {
+  margin-bottom: 20px;
+  font-size: 18px;
+  text-align: center;
+}
